@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on developing an Android Application<br>👯 I’m looking to collaborate on both web and application development<br>🤝 I’m looking for help with App development<br>🌱 I’m currently learning Python<br>💬 Ask me about HTML5 & CSS3, JavaScript, Java, and C#<br>⚡Fun fact me–I’m always working on something
+<br>🔭 I’m currently working on developing an Android Application<br>👯 I’m looking to collaborate on both web and application development<br>🤝 I’m looking for help with App development<br>🌱 I’m currently learning Python<br>💬 Ask me about HTML5 & CSS3, JavaScript, Java, and C#<br>⚡Fun fact about me–I’m always working on something
 
 
 ## 🌐 Socials:
